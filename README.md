@@ -3,10 +3,10 @@
 <!--
 **TaeDongUm/taedongum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome to My Github&fontSize=90"
+<div align="center">
 - 🌱 I’m currently learning java, backend, english speaking(Interested in going abroad)
 - 📫 How to reach me: taedong.um@gmail.com
-<div align="center">
   
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeDongUm&theme=dark&show_icons=true)
