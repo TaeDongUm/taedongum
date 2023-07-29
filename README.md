@@ -3,7 +3,7 @@
 <!--
 **TaeDongUm/taedongum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome to My Github&fontSize=90"
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule&&fontColor=9900FF%20render&fontSize=90)
 <div align="center">
 - 🌱 I’m currently learning java, backend, english speaking(Interested in going abroad)
 - 📫 How to reach me: taedong.um@gmail.com
