@@ -10,8 +10,6 @@
 
 📫 How to reach me: taedong.um@gmail.com
   
-## GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeDongUm&theme=dark&show_icons=true)
 
 ## Language that I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&hide=PowerShell,batchfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,6 +17,7 @@
 ## Algorithm BackJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=etdong)](https://solved.ac/etdong)
 
-
+## GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeDongUm&theme=dark&show_icons=true)
 
 </div>
