@@ -6,8 +6,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=9900FF&height=300&section=header&text=Welcome!&&fontColor=9900FF&fontSize=90)
 
-- 🌱 I’m currently learning java, backend, english speaking(Interested in going abroad)
-- 📫 How to reach me: taedong.um@gmail.com
+🌱 I’m currently learning java, backend, english speaking(Interested in going abroad)
+📫 How to reach me: taedong.um@gmail.com
   
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeDongUm&theme=dark&show_icons=true)
