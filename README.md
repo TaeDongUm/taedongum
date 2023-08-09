@@ -17,7 +17,5 @@
 ## Algorithm BackJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=etdong)](https://solved.ac/etdong)
 
-## GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeDongUm&theme=dark&show_icons=true)
 
 </div>
