@@ -12,7 +12,7 @@
   
 
 ## Language that I used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&hide=PowerShell,batchfile&layout=compact)
 
 ## Algorithm BackJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=etdong)](https://solved.ac/etdong)
