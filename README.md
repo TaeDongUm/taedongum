@@ -12,6 +12,8 @@
   
 
 ## Language that I used
+![TaeDongUm github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=TaeDongUm)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&hide=PowerShell,Batchfile&layout=compact)]
 
 ## Algorithm BackJoon
