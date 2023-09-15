@@ -4,7 +4,7 @@
 -->
 <div align="center">
   
-# Hi there!
+# Hi there! 👋
 
 🌱 I’m currently learning java, backend, english speaking(Interested in going abroad) <br>
 
