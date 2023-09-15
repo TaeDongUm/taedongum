@@ -11,9 +11,9 @@
 📫 How to reach me: taedong.um@gmail.com
   
 
-## 📊GitHub Stats
+## 📊Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=demo&theme=onedark)
 <!--
 ![TaeDongUm github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=TaeDongUm)
 -->
