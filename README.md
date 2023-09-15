@@ -6,14 +6,15 @@
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=9900FF&height=300&section=header&text=Welcome!&&fontColor=9900FF&fontSize=80)
 
-🌱 I’m currently learning java, backend, english speaking(Interested in going abroad)
+🌱 I’m currently learning java, backend, english speaking(Interested in going abroad) <br>
+
 
 📫 How to reach me: taedong.um@gmail.com
   
 
 ## 📊Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=Demo&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=compact&theme=onedark)
 <!--
 ![TaeDongUm github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=TaeDongUm)
 -->
