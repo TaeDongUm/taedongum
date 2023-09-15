@@ -12,7 +12,8 @@
   
 
 ## 📊GitHub Stats
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=TaeDongUm" width="600" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=compact&theme=onedark)
 <!--
 ![TaeDongUm github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=TaeDongUm)
 -->
