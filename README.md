@@ -13,7 +13,7 @@
 
 ## 📊Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=demo&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeDongUm&layout=Demo&theme=onedark)
 <!--
 ![TaeDongUm github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=TaeDongUm)
 -->
