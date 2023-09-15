@@ -4,7 +4,7 @@
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=9900FF&height=300&section=header&text=Welcome!&&fontColor=9900FF&fontSize=80)
+# Hi there!
 
 🌱 I’m currently learning java, backend, english speaking(Interested in going abroad) <br>
 
